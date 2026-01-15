@@ -1,5 +1,6 @@
 #支持私库
-milvusdb/milvus:v2.6.7-gpu
+# milvusdb/milvus:v2.6.7-gpu
 #支持指定架构
 # --platform=linux/amd64 xiaoyaliu/alist
-zilliz/attu:latest
+# zilliz/attu:latest
+wjie520/vllm_kunlun:v0.0.1
