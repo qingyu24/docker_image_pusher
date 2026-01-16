@@ -3,4 +3,5 @@
 #支持指定架构
 # --platform=linux/amd64 xiaoyaliu/alist
 # zilliz/attu:latest
-wjie520/vllm_kunlun:v0.0.1
+# wjie520/vllm_kunlun:v0.0.1
+redis:8.0.0
