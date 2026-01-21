@@ -4,4 +4,5 @@
 # --platform=linux/amd64 xiaoyaliu/alist
 # zilliz/attu:latest
 # wjie520/vllm_kunlun:v0.0.1
-redis:8.0.0
+# redis:8.0.0
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
