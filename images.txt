@@ -5,5 +5,6 @@
 # zilliz/attu:latest
 # wjie520/vllm_kunlun:v0.0.1
 # redis:8.0.0
-registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
-michaelf34/infinity:latest
+# registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
+# michaelf34/infinity:latest
+n132/arvo:10400-vul
